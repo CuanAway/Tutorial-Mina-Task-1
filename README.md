@@ -24,7 +24,7 @@ Dokumen Official :
 
 #Setup
 
-First, install the [Mina zkApp CLI](https://github.com/o1-labs/zkapp-cli"Mina zkApp CLI"), if you haven’t already.
+First, install the [Mina zkApp CLI](https://github.com/o1-labs/zkapp-cli "Mina zkApp CLI"), if you haven’t already.
 
 ##Dependencies
 
